@@ -1,1 +1,2 @@
-include ':BLE-MIDI-library', ':sample', ':sample-wear'
+include ':BLE-MIDI-library', ':sample'
+//, ':sample-wear'
